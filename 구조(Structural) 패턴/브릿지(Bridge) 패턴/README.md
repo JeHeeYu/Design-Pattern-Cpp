@@ -155,6 +155,7 @@ struct RasterRenderer : Renderer
 <br>
 추가적으로 크기 변경을 할 수 있는 resize() 메서드도 가진다.
 
+```
 struct Shape
 {
 protected:
@@ -165,6 +166,7 @@ public:
     virtual void draw() = 0;
     virtual void resize(float factor) = 0;
 };
+```
 
 위 코드에서 renderer는 Renderer 클래스의 참조 변수로 선언되어 있다.
 <br>
