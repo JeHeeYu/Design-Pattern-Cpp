@@ -10,3 +10,4 @@
 
 - [어댑터(Adapter) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%EC%96%B4%EB%8C%91%ED%84%B0(Adapter)%20%ED%8C%A8%ED%84%B4)
 - [브릿지(Bridge) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%EB%B8%8C%EB%A6%BF%EC%A7%80(Bridge)%20%ED%8C%A8%ED%84%B4)
+- [컴포지트(Composite) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%EC%BB%B4%ED%8F%AC%EC%A7%80%ED%8A%B8(Composite)%20%ED%8C%A8%ED%84%B4)
