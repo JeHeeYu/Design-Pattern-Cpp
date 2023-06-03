@@ -18,3 +18,5 @@
 
 ### 행동(Behavioral) 패턴
 - [책임 연쇄(Chain of Responsibility) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EC%B1%85%EC%9E%84%20%EC%97%B0%EC%87%84(Chain%20of%20Responsibility)%20%ED%8C%A8%ED%84%B4)
+- [커맨드(Command) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EC%BB%A4%EB%A7%A8%EB%93%9C(Command)%20%ED%8C%A8%ED%84%B4)
+- [인터프리터(Interpreter) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0(Interpreter)%20%ED%8C%A8%ED%84%B4)
