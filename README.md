@@ -15,3 +15,6 @@
 - [퍼사드(Facade) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%ED%8D%BC%EC%82%AC%EB%93%9C(Facade)%20%ED%8C%A8%ED%84%B4)
 - [플라이웨이트(Flyweight) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%9B%A8%EC%9D%B4%ED%8A%B8(Flyweight)%20%ED%8C%A8%ED%84%B4)
 - [프록시(Proxy) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%EA%B5%AC%EC%A1%B0(Structural)%20%ED%8C%A8%ED%84%B4/%ED%94%84%EB%A1%9D%EC%8B%9C(Proxy)%20%ED%8C%A8%ED%84%B4)
+
+### 행동(Behavioral) 패턴
+- [책임 연쇄(Chain of Responsibility) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EC%B1%85%EC%9E%84%20%EC%97%B0%EC%87%84(Chain%20of%20Responsibility)%20%ED%8C%A8%ED%84%B4)
