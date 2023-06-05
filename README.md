@@ -23,3 +23,5 @@
 - [반복자(Iterator) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EB%B0%98%EB%B3%B5%EC%9E%90(Iterator)%20%ED%8C%A8%ED%84%B4)
 - [매개자(Mediator) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EB%A7%A4%EA%B0%9C%EC%9E%90(Mediator)%20%ED%8C%A8%ED%84%B4)
 - [메멘토(Memento) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EB%A9%94%EB%A9%98%ED%86%A0(Memento)%20%ED%8C%A8%ED%84%B4)
+- [관찰자(Observer) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EA%B4%80%EC%B0%B0%EC%9E%90(Observer)%20%ED%8C%A8%ED%84%B4)
+- [상태(State) 패턴](https://github.com/JeHeeYu/Design-Pattern-Cpp/tree/main/%ED%96%89%EB%8F%99(Behavioral)%20%ED%8C%A8%ED%84%B4/%EC%83%81%ED%83%9C(State)%20%ED%8C%A8%ED%84%B4)
